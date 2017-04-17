@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\zby\desktop\111\bianli\bianli\main.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zby\desktop\111\bianli\bianli\main.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zby\desktop\111\bianli\bianli\main.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zby\desktop\111\bianli\bianli\main.cpp(33): warning C4101: “dir”: 未引用的局部变量
+c:\users\zby\desktop\111\bianli\bianli\main.cpp(34): warning C4101: “filename”: 未引用的局部变量
+  bianli.vcxproj -> C:\Users\ZBY\Desktop\111\bianli\Debug\bianli.exe
+  bianli.vcxproj -> C:\Users\ZBY\Desktop\111\bianli\Debug\bianli.pdb (Full PDB)
